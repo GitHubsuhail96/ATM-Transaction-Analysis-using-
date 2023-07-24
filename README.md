@@ -16,3 +16,5 @@ Therefore, developing cash demand
 forecasting model for ATM network is a challenging task. Also, the chronological cash
 demand for every ATM fluctuates with time and often superimposed with non-stationary
 behaviour of users.
+
+Now a days ATM withdrawl is less comparing to the year by year, reason is more online transaction is available now a days.
